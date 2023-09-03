@@ -27,3 +27,5 @@ sudo python3 pingv4.py "larycxpajorj h bnpdarmjm nw anmnb"
 # Parte 3
 sudo python3 readv2.py capl1.pcapng
 ```
+
+Es necesario estar en la respectiva carpeta para poder compilar.
