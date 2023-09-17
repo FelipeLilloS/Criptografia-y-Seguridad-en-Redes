@@ -2,4 +2,4 @@
 
 El laboratorio esta distribuido en 4 carpetas, asociadas a los puntos indicados y solicitados en la experiencia.
 
-Respecto a los comandos utilizados, se encuentran tanto en el informe como en sus respectivos ".txt".
+Respecto a los comandos utilizados, su explicacion detallada se encuentra en el informe, y se tienen sus respectivos ".txt" indicados aquellos comandos que no eran faciles de indicar en informe.
