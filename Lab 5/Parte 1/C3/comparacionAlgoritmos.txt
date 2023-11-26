@@ -1,0 +1,39 @@
+----------------------------------------
+            Algoritmos C3/S1
+
+curve25519-sha256,
+curve25519-sha256@libssh.org,
+ecdh-sha2-nistp256,
+ecdh-sha2-nistp384,
+ecdh-sha2-nistp521,
+diffie-hellman-group-exchange-sha256,
+diffie-hellman-group16-sha512,
+diffie-hellman-group18-sha512,
+diffie-hellman-group-exchange-sha1,         (Nuevo)
+diffie-hellman-group14-sha256,
+diffie-hellman-group14-sha1,                (Nuevo)
+ext-info-c
+
+Total: 12
+
+Tamaño kex_algorithms: 304
+
+----------------------------------------
+            Algoritmos C4/S1
+
+curve25519-sha256,
+curve25519-sha256@libssh.org,
+ecdh-sha2-nistp256,
+ecdh-sha2-nistp384,
+ecdh-sha2-nistp521,
+diffie-hellman-group-exchange-sha256,
+diffie-hellman-group16-sha512,
+diffie-hellman-group18-sha512,
+diffie-hellman-group14-sha256,
+ext-info-c
+
+Total: 10
+
+Tamaño kex_algorithms: 241
+
+----------------------------------------
